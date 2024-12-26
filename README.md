@@ -113,7 +113,7 @@ Linux commands are powerful tools that unlock the full potential of your system.
 
 ## Linux file system:
 
-![nse-4996639091048556864-tempFileForShare_20240203-130319.jpg.jpg](8bb97d58-dc36-45ac-bf0c-17b34876020a.png)
+![IMAGE1.png](8bb97d58-dc36-45ac-bf0c-17b34876020a.png)
 
 ## File and Directory Commands:
 
